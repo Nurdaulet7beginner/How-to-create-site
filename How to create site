@@ -1,0 +1,35 @@
+<!-- Обертка для заголовка и подзаголовка --><div class="header" style="background-color: #006600;">  <h1 style="color: #fff;">How to Start Making Sites</h1>  <p style="color: #fff;">Welcome to our guide on starting a website from scratch! Whether you're a beginner or have some experience, this guide will help you navigate the process.</p></div><!-- Обертка для заголовка и подзаголовка -->
+<div class="header">
+  
+</div>
+<img src="https://flomaster.top/uploads/posts/2023-10/1697572197_flomaster-top-p-programmist-illyustratsiya-vkontakte-11.jpg" alt="Image" width="400">
+<div class="container">
+  <h2>Basic 10 Steps to Create a Website from Scratch</h2>
+  <p>Creating your own website may seem like a daunting task, but with the right approach and understanding of the basic steps, you can do it easily and effectively. Here are 10 basic steps to get you started:</p>
+  <ol>
+    <!-- Здесь будут перечислены шаги -->
+    <li>Choose a platform for creating your website. Consider various options such as WordPress, Wix, Squarespace, etc., and choose the one that best suits your needs.</li>
+    <li>Register a domain name. This will be the address of your website on the Internet, so choose it wisely and make sure it aligns with your brand.</li>
+    <li>Select hosting for your website. Hosting is where your website files will be stored and where it will be accessible to visitors.</li>
+    <li>Install and configure a CMS (content management system), if you have chosen that path. This will allow you to easily add, edit, and manage your website content.</li>
+    <li>Create the design of your website. Choose a template or develop a unique design that reflects your brand and attracts visitors' attention.</li>
+    <li>Create the main pages of your website, such as the homepage, about us, services, contact, etc. Ensure they are informative and user-friendly.</li>
+    <li>Add content to your website. This can be text, images, videos, graphics, and other materials that will help attract visitors' attention and convey the necessary information.</li>
+    <li>Set up SEO (search engine optimization) for your website. This will help your website be better visible in search results and attract more potential customers.</li>
+    <li>Test your website's functionality before launching it. Make sure all pages and functionality work correctly, and fix any errors or glitches.</li>
+    <li>Launch your website and promote it. Tell your friends and acquaintances about it, use social media and other channels to attract an audience, and gradually develop your online project.</li></ol>
+  <p>By following these simple steps, you can create a quality and professional website that will successfully represent your company or project on the Internet.</p>
+  <!-- Вставляем ссылку на YouTube -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Bmtu5eNnjK8?si=SXZfumD0pe275-Rw" frameborder="0" allowfullscreen></iframe>
+  <!-- Форма для ввода данных -->
+<form>
+  <input type="text" placeholder="Your Name">
+  <input type="password" placeholder="Your Password">
+  <input type="email" placeholder="Your Email">
+  <input type="number" placeholder="Your Age">
+  <input type="tel" placeholder="Your Contact Number">
+  <textarea rows="4" placeholder="Your Message"></textarea>
+  <input type="file"><button type="submit">Submit</button>
+</form>
+<!-- Кнопка для перехода в приложение телефона -->
+<button onclick="window.location.href = 'tel:+123456789';">Call Now</button><footer>  <footer style="background-color: #5a4b41; color: #d2c8b7; padding: 10px; text-align: center;">  <p>Кожабергенов Нурдаулет</p>  <p>АиУ 3 23</p></footer>
